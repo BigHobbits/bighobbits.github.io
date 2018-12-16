@@ -18,13 +18,13 @@ We believe WisdomPortal-One is the future of Online Learning by providing a mixe
 
 ## Meet Team
 
-**Navendra Jha** has 2+ years of experience as Unity Developer prior to joining the graduate program at ASU. At university, his focus is on Mobile Engineering and Mixed Reality and works on them at The BioDesign Research Lab. He has worked on BYJUS Learning App and has a real passion for making learning fun and intuitive.
+[**Navendra Jha**](https://www.linkedin.com/in/navendra/) has 2+ years of experience as Unity Developer prior to joining the graduate program at ASU. At university, his focus is on Mobile Engineering and Mixed Reality and works on them at The BioDesign Research Lab. He has worked on BYJUS Learning App and has a real passion for making learning fun and intuitive.
 
-**Salil Malik** has 2+ years of experience in Application development prior to joining grad program at ASU. At university, he is concentrating on Cyber Security and Full stack application development and is working on them at The Luminosity Research Lab.
+[**Salil Malik**](https://www.linkedin.com/in/salilmalik) has 2+ years of experience in Application development prior to joining grad program at ASU. At university, he is concentrating on Cyber Security and Full stack application development and is working on them at The Luminosity Research Lab.
 
-**Vishal Varun TippaRaju** is the 4th year Ph.D. student at the BioDesign Research Lab at ASU and his research lies in image signal processing. He has done quite a bit of research in Computer vision and is also a big android nerd and has been around a couple of API levels (From API 14).
+[**Vishal Varun TippaRaju**](tps://www.linkedin.com/in/vishal-varun-tipparaju-39666674) is the 4th year Ph.D. student at the BioDesign Research Lab at ASU and his research lies in image signal processing. He has done quite a bit of research in Computer vision and is also a big android nerd and has been around a couple of API levels (From API 14).
 
-**Shreya Srivastava** is a cybersecurity geek who has 3+ years of experience in Application development and has a knack for finding security loopholes in any and every website or application, she comes across.
+[**Shreya Srivastava**](https://www.linkedin.com/in/shreya-srivastava25) is a cybersecurity geek who has 3+ years of experience in Application development and has a knack for finding security loopholes in any and every website or application, she comes across.
 
 
 
