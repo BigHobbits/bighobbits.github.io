@@ -1,37 +1,30 @@
 ## Welcome to BigHobbits
 
-You can use the [editor on GitHub](https://github.com/BigHobbits/bighobbits.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The BigHobbits are a team of 4 graduate student from **Arizona State University** working in three different labs on AR, security and application development. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are working on **WisdomPortal-One** which aims at bringing live classroom experience to your doorstep using **MagicLeap-One**.
 
-### Markdown
+## About WisdomPortal-One
+WisdomPortal-One by the BigHobbits is a first of its kind unique Live Classroom/Workshop experience which takes a user directly to the live show from their own house.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A few days back, we wanted to attend DroidCon at SanFrancisco but we couldn't because of monetary issues. Even though the whole event was live streamed (at least the talks) but we missed on the experience that we would have gotten if we would have attended the event in person.
 
-```markdown
-Syntax highlighted code block
+We want to bridge that missing experience through "WisdomPortal-One".
 
-# Header 1
-## Header 2
-### Header 3
+We understand that bringing a live in-person experience for an event is a little far-fetched goal for the team currently and hence we want to start with bringing live classroom experience to our users. The motivation behind Live Classroom is that even though there are lots of pre-recorded session/videos that a user can find on the internet and learn from but still there is a gap of active learning and mentorship which a person only gets from a live classroom experience.
 
-- Bulleted
-- List
+We believe WisdomPortal-One is the future of Online Learning by providing a mixed reality experience to our users. With the help of MagicLeapOne, they will find themselves immersed in the live classroom session where they can interact with other fellows classmates and teachers alike, ask questions in real time and also bookmark & record sessions in real-time. 
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Meet Team
 
-[Link](url) and ![Image](src)
-```
+**Navendra Jha** has 2+ years of experience as Unity Developer prior to joining the graduate program at ASU. At university, his focus is on Mobile Engineering and Mixed Reality and works on them at The BioDesign Research Lab. He has worked on BYJUS Learning App and has a real passion for making learning fun and intuitive.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Salil Malik** has 2+ years of experience in Application development prior to joining grad program at ASU. At university, he is concentrating on Cyber Security and Full stack application development and is working on them at The Luminosity Research Lab.
 
-### Jekyll Themes
+**Vishal Varun TippaRaju** is the 4th year Ph.D. student at the BioDesign Research Lab at ASU and his research lies in image signal processing. He has done quite a bit of research in Computer vision and is also a big android nerd and has been around a couple of API levels (From API 14).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BigHobbits/bighobbits.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Shreya Srivastava** is a cybersecurity geek who has 3+ years of experience in Application development and has a knack for finding security loopholes in any and every website or application, she comes across.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
